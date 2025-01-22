@@ -1,0 +1,12 @@
+{
+  "version": "1",
+  "licenses": [
+    {
+      "key": "FCNRO-D7RPZ-MKHYK-VX71R-YZIIK",
+      "signature": "hXNjGhFiIBD4Aiobsz9NRkMlxMnWLickwSCXqXsPuS+8fbsr5b6UVSeEgD/+DcUOCBRIR0qB92XLWsMtEoL6HUXXKJD5whu5nKWAYrRFduefmCeedAvqGolck5T1IxmbokNa7w6GPRJ9XyTFkXRv2qexmoGz4eNnUObR05XorBKQ8bOwMwhcayMLkTetTICllLLiQmsar/FHY3VMhI5Ba3eOHH3SXjSMHoBjulyIal1JvkkA=="
+    }
+  ],
+  "revokedKeys": [
+    "ABCDE-ABCDE-ABCDE-ABCDE-ABCDE"
+  ]
+}
