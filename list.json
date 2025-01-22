@@ -3,14 +3,10 @@
   "licenses": [
     {
       "key": "FCNRO-D7RPZ-MKHYK-VX71R-YZIIK",
-      "date": "2025-01-22",
+      "creationDate": "2025-01-22",
+      "expiryDate": "2035-01-22",
+      "isRevoked": false,
       "signature": "hXNjGhFiIBD4Aiobsz9NRkMlxMnWLickwSCXqXsPuS+8fbsr5b6UVSeEgD/+DcUOCBRIR0qB92XLWsMtEoL6HUXXKJD5whu5nKWAYrRFduefmCeedAvqGolck5T1IxmbokNa7w6GPRJ9XyTFkXRv2qexmoGz4eNnUObR05XorBKQ8bOwMwhcayMLkTetTICllLLiQmsar/FHY3VMhI5Ba3eOHH3SXjSMHoBjulyIal1JvkkA=="
     }
-  ],
-  "revokedKeys": [
-    "ABCDE-ABCDE-ABCDE-ABCDE-ABCDE"
-  ],
-  "expiredKeys": [
-    "ABCDE-ABCDE-ABCDE-ABCDE-ABCDE"
   ]
 }
